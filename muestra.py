@@ -19,4 +19,4 @@ while True:
     if letras == longitud:
         print('Has ganado tio')
         break
-print('Termino el juego')
+print('Termino el juego, la palabra era {}'.format(palabra))
