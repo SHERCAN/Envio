@@ -19,3 +19,4 @@ while True:
     if letras == longitud:
         print('Has ganado tio')
         break
+print('Termino el juego')
